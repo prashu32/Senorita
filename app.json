@@ -67,7 +67,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": " 881769564"
+         "value": " 1137511834"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -84,7 +84,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/7fe439be6a25234b0672a.jpg"    
+         "value": "https://telegra.ph/file/9c30bb0421711288d9afe.jpg"    
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information",
