@@ -1,13 +1,13 @@
-### [@Misssenorita_bot](http://www.telegram.dog/Misssenorita_bot)
+### [@MissSenorita_bot](http://www.telegram.dog/MissSenorita_bot)
 > with HunterxHunter theme.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
+Modular Telegram bot for managing your groups with a extra Fun features.
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/038200c811cff976f484e.jpg)](https://heroku.com/deploy?template=https://github.com/prashu32/Senorita.git)
+[![Deploy](https://telegra.ph/file/9c30bb0421711288d9afe.jpg)](https://heroku.com/deploy?template=https://github.com/prashu32/Senorita.git)
 
 ### Configuration
 
@@ -27,8 +27,8 @@ from senorita.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID =  881769564  # my telegram ID
-    OWNER_USERNAME = "gym2105"  # my telegram username
+    OWNER_ID =   1137511834 # my telegram ID
+    OWNER_USERNAME = "Mbbs_lover"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1001375770539' # some group chat that your bot is a member of
