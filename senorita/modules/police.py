@@ -29,7 +29,7 @@ def police(bot: Bot, update: Update):
     for x in range(EDIT_TIMES):
         msg.edit_text(police_siren[x%2])
         time.sleep(EDIT_SLEEP)
-    msg.edit_text('🚴‍♂️Pling! Police Car was Breakdown')
+    msg.edit_text('🚴‍♂️Pling! Police Car was Breakdown now Professor here')
 
 
 POLICE_HANDLER = DisableAbleCommandHandler("police", police)
