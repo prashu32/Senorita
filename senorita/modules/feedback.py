@@ -19,7 +19,7 @@ def feedback(bot: Bot, update: Update):
   feed_text = f"senorita's *New* feedback from [{name}](tg://user?id={userid})\n\nfeed: {text}"
   
 
-  bot.send_message(--1001349150416, feed_text, parse_mode=ParseMode.MARKDOWN)
+  bot.send_message(-1001349150416, feed_text, parse_mode=ParseMode.MARKDOWN)
  
   text = html.escape(text)
   reply_text=f"Thankyou for giving us your feedback."
