@@ -58,11 +58,11 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": " 881769564"
+         "value": " 1137511834"
       },
       "OWNER_NAME": {
          "description": "Your Name",
-         "value": "✪ Mყʂƚҽɾყ Bσყ 🇮🇳✰"
+         "value": "✪PRÃSHU❤️PROFESSØR🇮🇳✰"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -84,7 +84,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/038200c811cff976f484e.jpg"    
+         "value": "https://telegra.ph/file/7fe439be6a25234b0672a.jpg"    
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information",
@@ -107,12 +107,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": " 881769564"
+         "value": " 1137511834"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": " 881769564"
+         "value": " 1137511834"
       },
      
       "TOKEN": {
@@ -133,7 +133,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": " 881769564"
+         "value": " 1137511834"
       },
       "WALL_API":{
          "description": "Enter wall api",
@@ -163,7 +163,7 @@
     }
   ],
    "name": "senorita",
-   "repository": "https://github.com/edguru/senorita",
-   "success_url": "https://telegram.dog/Misssenorita_bot",
-   "logo": "https://telegra.ph/file/038200c811cff976f484e.jpg"
+   "repository": "https://github.com/prashu32/senorita",
+   "success_url": "https://telegram.dog/MissSenorita_bot",
+   "logo": "https://telegra.ph/file/9c30bb0421711288d9afe.jpg"
 }
