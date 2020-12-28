@@ -34,7 +34,7 @@ def check_user(user_id: int, bot: Bot, chat: Chat) -> Optional[str]:
         return reply
       
     if user_id ==  1137511834:
-        message.reply_text("There is no way I can mute him. He is my Creator/Developer")
+        message.reply_text("ARE YOU NIGGGA RE I CAN'T MUTE MY JAANU❤️")
         return reply  
 
     if is_user_admin(chat, user_id, member):
