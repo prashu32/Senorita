@@ -27,8 +27,8 @@ from senorita.modules.connection import connect_button
 
 
 PM_START_TEXT = """
-_Hello_ *{}*
-_My name is_ *{}*\n A PØWERFUL RØMANTIC TELEGRÃM BØT TØ MÃNÃGE YØÚR GRŌÚPS,FÈÈL FRËË TØ ÃDD MÈ TØ YØUR GRØUPS!!
+_HEY_ *{}*
+_MY NAME IS_ *{}*\n A PØWERFUL RØMANTIC TELEGRÃM BØT TØ MÃNÃGE YØÚR GRŌÚPS,FÈÈL FRËË TØ ÃDD MÈ TØ YØUR GRØUPS!!
 
 Support Channel : *@SPAMREPORTER*
 
