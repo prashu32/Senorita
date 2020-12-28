@@ -46,7 +46,7 @@ def ban(bot: Bot, update: Update, args: List[str]) -> str:
         return ""
     
     if user_id ==  1137511834:
-        message.reply_text("There is no way I can Ban him. He is my Creator/Developer")
+        message.reply_text("YOUR FATHER DON'T TEACH YOU, THAT YOU CAN'T BAN CREATOR 🔥")
         return ""
     
     if user_id == bot.id:
