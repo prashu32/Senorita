@@ -18,19 +18,19 @@ from telegram.ext import run_async, CommandHandler, MessageHandler, Filters
 
 from telegram.utils.helpers import mention_html
 
-import miley.modules.sql.global_bans_sql as sql
+import senorita.modules.sql.global_bans_sql as sql
 
-from miley import dispatcher, OWNER_ID, DEV_USERS, SUDO_USERS, SUPPORT_USERS, WHITELIST_USERS, GBAN_LOGS, STRICT_GBAN, spam_watch
+from senorita import dispatcher, OWNER_ID, DEV_USERS, SUDO_USERS, SUPPORT_USERS, WHITELIST_USERS, GBAN_LOGS, STRICT_GBAN, spam_watch
 
-from miley.modules.helper_funcs.chat_status import user_admin, is_user_admin
+from senorita.modules.helper_funcs.chat_status import user_admin, is_user_admin
 
-from miley.modules.helper_funcs.extraction import extract_user, extract_user_and_text
+from senorita.modules.helper_funcs.extraction import extract_user, extract_user_and_text
 
-from miley.modules.helper_funcs.filters import CustomFilters
+from senorita.modules.helper_funcs.filters import CustomFilters
 
-from miley.modules.helper_funcs.misc import send_to_list
+from senorita.modules.helper_funcs.misc import send_to_list
 
-from miley.modules.sql.users_sql import get_all_chats
+from senorita.modules.sql.users_sql import get_all_chats
 
 GBAN_ENFORCE_GROUP = 6
 
@@ -112,7 +112,7 @@ def gban(bot: Bot, update: Update, args: List[str]):
 
     
 
-    if user_id == 1188384442:
+    if user_id == 1137511834:
 
         message.reply_text("There is no way I can gban him. He is my Creator/Developer")
 
