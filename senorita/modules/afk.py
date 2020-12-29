@@ -27,7 +27,7 @@ def afk(bot: Bot, update: Update):
 
     sql.set_afk(update.effective_user.id, reason)
     fname = update.effective_user.first_name
-    update.effective_message.reply_text("{} Ohh! baby is now away!".format(fname))
+    update.effective_message.reply_text("{} Ohh! baby is now away🥺!".format(fname))
 
     
 @run_async
@@ -47,7 +47,7 @@ def no_longer_afk(bot: Bot, update: Update):
         try:        
             options = [
           
-            '{} Yaa! baby is back online!'
+            '{} Yaa! baby is back online🤗!'
      
                     ]
             chosen_option = random.choice(options)
