@@ -58,7 +58,7 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": " 1137511834"
+         "value": " 1612881302"
       },
       "OWNER_NAME": {
          "description": "Your Name",
@@ -67,7 +67,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": " 1137511834"
+         "value": " 1612881302"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -107,12 +107,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": " 1137511834"
+         "value": " 1612881302"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": " 1137511834"
+         "value": " 1612881302"
       },
      
       "TOKEN": {
@@ -133,7 +133,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": " 1137511834"
+         "value": " 1612881302"
       },
       "WALL_API":{
          "description": "Enter wall api",
