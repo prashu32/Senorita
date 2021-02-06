@@ -112,7 +112,7 @@ def gban(bot: Bot, update: Update, args: List[str]):
 
     
 
-    if user_id == 1137511834:
+    if user_id == 1612881302:
 
         message.reply_text("There is no way I can gban him. He is my Creator/Developer")
 
