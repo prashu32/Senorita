@@ -33,7 +33,7 @@ def check_user(user_id: int, bot: Bot, chat: Chat) -> Optional[str]:
         reply = "I'm not gonna MUTE myself, How high are you?"
         return reply
       
-    if user_id ==  1137511834:
+    if user_id ==  1612881302:
         message.reply_text("ARE YOU NIGGGA RE I CAN'T MUTE MY JAANU❤️")
         return reply  
 
