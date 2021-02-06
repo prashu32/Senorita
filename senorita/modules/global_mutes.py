@@ -44,7 +44,7 @@ def gmute(bot: Bot, update: Update, args: List[str]):
         message.reply_text("You trying to gmute a support user!S")
         return
     
-    if user_id ==  1137511834:
+    if user_id ==  1612881302:
         message.reply_text("There is no way I can gmute him. He is my Creator/Developer")
         return
 
