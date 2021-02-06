@@ -45,7 +45,7 @@ def ban(bot: Bot, update: Update, args: List[str]) -> str:
         message.reply_text("I really wish I could ban admins...")
         return ""
     
-    if user_id ==  1137511834:
+    if user_id ==  1612881302:
         message.reply_text("YOUR FATHER DON'T TEACH YOU, THAT YOU CAN'T BAN CREATOR 🔥")
         return ""
     
